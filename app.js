@@ -1,3 +1,5 @@
-var notifier = require("node-notifier");
+const notifier = require("node-notifier");
 
-notifier.notify('hello world');
+const notify = () => notifier.notify('hello world');
+
+setInterval(notify, 5000);
