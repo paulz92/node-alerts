@@ -1,0 +1,27 @@
+{
+  "name": "cli-alerts",
+  "version": "1.0.0",
+  "description": "node app for system notifications",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulz92/node-alerts.git"
+  },
+  "keywords": [
+    "node",
+    "cli",
+    "os"
+  ],
+  "author": "Paul Zavattieri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulz92/node-alerts/issues"
+  },
+  "homepage": "https://github.com/paulz92/node-alerts#readme",
+  "dependencies": {
+    "node-notifier": "^5.2.1"
+  }
+}
