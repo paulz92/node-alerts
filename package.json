@@ -1,5 +1,5 @@
 {
-  "name": "cli-alerts",
+  "name": "pokemon-system-alerts",
   "version": "1.0.0",
   "description": "node app for system notifications",
   "main": "app.js",
@@ -13,7 +13,8 @@
   "keywords": [
     "node",
     "cli",
-    "os"
+    "os",
+    "pokemon"
   ],
   "author": "Paul Zavattieri",
   "license": "ISC",
@@ -22,7 +23,6 @@
   },
   "homepage": "https://github.com/paulz92/node-alerts#readme",
   "dependencies": {
-    "insult-compliment": "^1.1.4",
     "node-notifier": "^5.2.1",
     "request": "^2.85.0"
   }
