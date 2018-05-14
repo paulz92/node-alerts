@@ -16,4 +16,4 @@ const notify = () => {
   });
 }
 
-setInterval(notify, 5000);
+setInterval(notify, 8000);

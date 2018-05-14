@@ -24,6 +24,7 @@
   "homepage": "https://github.com/paulz92/node-alerts#readme",
   "dependencies": {
     "node-notifier": "^5.2.1",
+    "npm": "^6.0.1",
     "request": "^2.85.0"
   }
 }

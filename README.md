@@ -8,6 +8,7 @@ Thanks to the devs at [Pokéapi](https://pokeapi.co/) for the API.
 
 ## How to use
 - Clone this repo to your machine
+- Ensure your machine is enabled to receive system notifications
 - Run ``` npm install ``` in your CLI (ensure you have Node.js installed)
 - Run ``` node app.js ``` in your CLI
 - That's it!
