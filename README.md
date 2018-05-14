@@ -5,3 +5,9 @@ A Node.js app which sends system alerts every minute with a random pokemon. The 
 Thanks to the devs at [Pokéapi](https://pokeapi.co/) for the API.
 
 ![demo gif](./demo.gif)
+
+## How to use
+- Clone this repo to your machine
+- Run ``` npm install ``` in your CLI (ensure you have Node.js installed)
+- Run ``` node app.js ``` in your CLI
+- That's it!
