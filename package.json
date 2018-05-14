@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/paulz92/node-alerts#readme",
   "dependencies": {
+    "insult-compliment": "^1.1.4",
     "node-notifier": "^5.2.1"
   }
 }
